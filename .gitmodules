@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/whitelight"]
+	path = wp-content/themes/whitelight
+	url = https://github.com/deemac504/whitelight.git
